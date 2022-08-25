@@ -58,6 +58,8 @@ nav a:focus {
   }
 
   nav ul {
+    position:sticky;
+    top:0px;
     flex-direction: column;
   }
 
