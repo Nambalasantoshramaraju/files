@@ -11,7 +11,7 @@
   <style>
   nav a {
   font-size: 1.5rem;
-  color: #f9f8eb;
+  color:blue;
   text-transform: uppercase;
   
 }
